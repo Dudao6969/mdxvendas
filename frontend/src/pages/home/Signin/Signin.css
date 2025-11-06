@@ -100,7 +100,7 @@
   .acessarBtn {
     width: 100%;
     padding: 0.9rem;
-    background: #ff7300;
+    background: #3d852b;
     color: #fff;
     border: none;
     border-radius: 20px;
@@ -111,7 +111,7 @@
   }
   
   .acessarBtn:hover {
-    background: #e56700;
+    background: #205014;
   }
   
   .register {

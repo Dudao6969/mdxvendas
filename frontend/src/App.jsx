@@ -1,14 +1,14 @@
 import './App.css'
 import Routes from './Routers'
-import Header from './assets/components/Header'
+import Header from './components/Header'
 
 function App() {
- 
-   return (
+
+  return (
     <div>
       <Header/>
       <main>
-        <Routes />
+        <Routes/>
       </main>
     </div>
   )
